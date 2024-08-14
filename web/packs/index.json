@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "mundovideos.json"
+  ],
+  "homeserver_url": "https://matrix.m.jjcp.dev"
+}
